@@ -1,2 +1,2 @@
 # tableau-challenge
-hold folders for tableau public project
+tableau public project
