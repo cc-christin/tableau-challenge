@@ -1,5 +1,5 @@
 # tableau-challenge
-tableau public project
+[tableau-challenge](https://public.tableau.com/app/profile/christin.sok3221/viz/tableau-challenge_16533661101650/Story_1)
 
 ## ETL
 * Data for the full year of 2020 were downloaded from [NYC Citi Bike Data](https://www.citibikenyc.com/system-data). 
