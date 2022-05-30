@@ -38,3 +38,7 @@
 
 The location of the top five starting and ending stations might have contribute to their frequent use as they are generally located in the downtown area with the exception of Sip Ave. The frequent but short trip duration might such as the case in Grove St PATH might be why these stations are forming a natural hub for both starting and ending destinations.   
 Subscribers account for 69 % while customers make up the remaining 31 %  of all citi bike useage in 2020. Grove St PATH has a usertype breakdown of (18,091) 82 %  subscribers and (3,913) 17 % customers out of a total of (22,004) as a starting station, slightly higher than the overall average. 
+
+![starting_usertype](https://github.com/cc-christin/tableau-challenge/blob/main/Images/starting_usertype.png)
+
+![ending_usertype](https://github.com/cc-christin/tableau-challenge/blob/main/Images/ending_usertype.png)
