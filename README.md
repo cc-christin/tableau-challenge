@@ -6,6 +6,8 @@
 * All CSVs were combined into one CSV, [bike_full_2022](https://github.com/cc-christin/tableau-challenge/blob/main/Resources/bike_full_2020.csv). 
 
 ## Data Analysis/Phenomena
+[story_dashboard](https://public.tableau.com/app/profile/christin.sok3221/viz/tableau-challenge_16533661101650/Sheet4#1)
+
 #### Understanding Bike Rides/Trip Duration Data
 * The timeframe selected was the full year of 2020, where there was a total of 1,846 unique citi bikes (bikeIDS) and a total of 323,351 bike rides taken. 100,982 rides were taken by single-ride-customers and 222,369 rides taken by subscribers. The breakdown of customers to subscribers for 2020 would be 31 % to 69 %. The average subscriber has an average trip duration of 830 seconds, while the average customer has an average trip duration of 3,269 seconds. Customers in 2020 took 10,408 distict trips while subscribers took 5,789 distict trips. 
 
